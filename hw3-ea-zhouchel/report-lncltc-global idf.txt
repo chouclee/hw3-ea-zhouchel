@@ -1,0 +1,69 @@
+coisne=0.7544	rank=1	qid=1	rel=0	vesuviu located near ruins destroy city pompeii 
+coisne=0.6018	rank=2	qid=1	rel=0	79 a.d ancient city bury avalanche hot ash from mount vesuviu 
+coisne=0.3026	rank=3	qid=1	rel=1	a.d 79 long dormant mount vesuviu erupt bury volcanic ash roman city pompeii estimate 20,000 people die 
+coisne=0.0000	rank=4	qid=1	rel=0	you can see vesuviu background near ruins pompei its last eruption 1944 
+coisne=0.6190	rank=1	qid=2	rel=0	supposedly last play michael jordan gather some largest crowd history nba 
+coisne=0.5851	rank=2	qid=2	rel=1	when michael jordan one greatest basketball player all time made what expect his last trip play atlanta last march nba record 62,046 fan turn out see him bull 
+coisne=0.3837	rank=3	qid=2	rel=0	immortal world tour michael jackson gather some largest crowd fan history pop music 
+coisne=0.0000	rank=4	qid=2	rel=0	bull last visit atlanta nba record 62,046 fan show up georgia dome 
+coisne=0.5713	rank=1	qid=3	rel=1	alaska purchase from russia year 1867 
+coisne=0.3111	rank=2	qid=3	rel=0	william seward negotiate purchase alaska 7.2 million 
+coisne=0.2482	rank=3	qid=3	rel=0	1867 u.s president andrew jackson proclaim treaty purchase alaska from russia 
+coisne=0.8002	rank=1	qid=4	rel=1	march 2 1962 wilt chamberlain score record 100 points game against new york knick 
+coisne=0.7261	rank=2	qid=4	rel=0	wilt chamberlain most famous record 100 points he score philadelphia warrior 169 147 defeat new york knick 
+coisne=0.5658	rank=3	qid=4	rel=0	100 point game highlight career wilt chamberlain 
+coisne=1.1304	rank=1	qid=5	rel=1	people china have mixed feelings about river which often call sorrow china 
+coisne=0.7086	rank=2	qid=5	rel=0	yellow river often call mother china 
+coisne=0.4175	rank=3	qid=5	rel=0	yangtze longest river asia general china particular 
+coisne=1.8296	rank=1	qid=6	rel=0	hard human run mile fast than four minutes 
+coisne=0.4990	rank=2	qid=6	rel=1	roger bannister first break four minute mile barrier 
+coisne=0.2481	rank=3	qid=6	rel=0	claim 4 minute mile once thought impossible byinforme observer widely propagate myth create sportswriter debunk bannister himself his memoir four minute mile 1955 
+coisne=0.4425	rank=1	qid=7	rel=0	also did 1959 state alaska struggle how pay its bill 
+coisne=0.1692	rank=2	qid=7	rel=1	even mention breathtaking beauty alaska became 1959 our 49th state 
+coisne=0.0960	rank=3	qid=7	rel=0	aaska u.s state situated northwest extremity north america continent 
+coisne=0.0823	rank=4	qid=7	rel=0	jan 3 1959 alaska became 49th star old glory 
+coisne=0.5334	rank=1	qid=8	rel=0	tyson choke up he spoke biting evander holyfield ear 
+coisne=0.4132	rank=2	qid=8	rel=1	fight holyfield wba heavyweight title june 28 1997 tyson inexplicably bit his opponent right ear 
+coisne=0.1886	rank=3	qid=8	rel=0	tyson told panel he foggy from repeated head butt holyfield third round june 28 1997 fight las vega 
+coisne=0.1540	rank=4	qid=8	rel=0	tyson said he feeling betray people i would have die leading up june 1997 title fight against holyfield according psychiatric report release today state attorney general office 
+coisne=0.5334	rank=1	qid=9	rel=1	luna 2 first spacecraft reach surface moon 
+coisne=0.5334	rank=2	qid=9	rel=0	eagle first manned spacecraft reach surface moon 
+coisne=0.1764	rank=3	qid=9	rel=0	he down about 15 seconds fuel after dodge boulder moon when eagle landed july 20 1969 
+coisne=0.0000	rank=4	qid=9	rel=0	when cool thinking armstrong realize computer navigation would set eagle lunar land down among dangerous boulder gape crater he act 
+coisne=1.9994	rank=1	qid=10	rel=1	menchu won nobel peace prize 1992 
+coisne=0.3850	rank=2	qid=10	rel=0	new book debunk much nobel peace prize laureate ms menchu version her life guatemala 
+coisne=0.3601	rank=3	qid=10	rel=0	menchu guatemala leader international known her work human rights leading indian activist honor nobel peace prize 
+coisne=0.2495	rank=4	qid=10	rel=0	nobel prize laureate ms menchu became international acclaim spokeswoman rights indigenous people 
+coisne=0.4990	rank=1	qid=11	rel=1	devil tower can found crook county 
+coisne=0.3865	rank=2	qid=11	rel=0	west across wyoming border staggering beautiful devil tower national monument 
+coisne=0.3390	rank=3	qid=11	rel=0	devil tower igneous intrusion rise dramatic 1,267 feet 386 m above surrounding terrain 
+coisne=0.3156	rank=4	qid=11	rel=0	1941 petzoldt join other rock climber rescue maroon parachutist who had landed atop devil tower 
+coisne=0.5523	rank=1	qid=12	rel=0	mendocino tree tallest redwood world 
+coisne=0.3565	rank=2	qid=12	rel=0	mendocino tree has been officially decree tallest living thing save redwood league 
+coisne=0.3301	rank=3	qid=12	rel=0	tallest tree alive world today 370 foot tall redwood whose location biologist decline disclose 
+coisne=0.1415	rank=4	qid=12	rel=1	name mendocino tree 600 800 year old redwood stand 367 1 2 feet tall 
+coisne=0.6012	rank=1	qid=13	rel=0	crater lake caldera lake western united states 
+coisne=0.5523	rank=2	qid=13	rel=0	river flowing out crater lake 
+coisne=0.4116	rank=3	qid=13	rel=1	oregon crater lake tops 1,932 feet its greatest depth 
+coisne=1.5845	rank=1	qid=14	rel=1	lionel richiewa lead singe songwriter commodore 
+coisne=0.2495	rank=2	qid=14	rel=0	commodore america funk soulband which its peak 1970s 
+coisne=0.2495	rank=3	qid=14	rel=0	commodore originally came together from group mystic jay 
+coisne=0.7057	rank=1	qid=15	rel=0	oymyakon coldest place russia 
+coisne=0.7052	rank=2	qid=15	rel=1	new look nasa satellite data reveal earth set new record coldest temperature record east antarctica 
+coisne=0.5334	rank=3	qid=15	rel=0	prospect creek camp alaska coldest place us 
+coisne=0.6137	rank=1	qid=16	rel=1	bob marley die 1981 from cancer age 36 
+coisne=0.6127	rank=2	qid=16	rel=0	bob marley jamaica reggae singe songwriter musician guitarist who did achieve international fame 
+coisne=0.4814	rank=3	qid=16	rel=0	without proper timely removal tumor one can die like bob marley steve job 
+coisne=0.7645	rank=1	qid=17	rel=0	united states world leading producer corn 
+coisne=0.4916	rank=2	qid=17	rel=0	u.s state leading production corn received 600 million annual tax subsidy boost production ethanol 
+coisne=0.4296	rank=3	qid=17	rel=1	corn futures found support from forecast above normal temperature major grow area including iowa which often nation largest producer 
+coisne=0.2352	rank=1	qid=18	rel=0	mcdonald corporation world largest chain hamburger fast food restaurant 
+coisne=0.2352	rank=2	qid=18	rel=0	company began 1940 barbecue restaurant operate richard maurice mcdonald 
+coisne=0.1397	rank=3	qid=18	rel=1	from single hamburger stand san bernardino calif 1948 systematize approach mcdonald brother develop offer customer reasonably price food rapid pace form cornerstone fast food business 
+coisne=0.7269	rank=1	qid=19	rel=0	hindenburg disaster took place germany passenger airship lz 129 hindenburg caught fire destroy during its attempt dock its moor mast 
+coisne=0.5416	rank=2	qid=19	rel=0	hindenburg class airship were passenger carry rigid airship all which were retired shortly after disaster 1937 
+coisne=0.2630	rank=3	qid=19	rel=1	may 6 1937 hydrogen fill germany dirigible hindenburg burn crash lakehurst n.j killing 35 97 people board navy crewman ground 
+coisne=0.5835	rank=1	qid=20	rel=0	keystone resort largest ski resort summit county located keystone colorado 
+coisne=0.4914	rank=2	qid=20	rel=1	call keystone state unpredictable election year pennsylvania living up its name 
+coisne=0.0000	rank=3	qid=20	rel=0	keytstone resort own operate vail resort 
+MRR=0.6458
